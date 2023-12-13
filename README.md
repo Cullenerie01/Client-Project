@@ -1,1 +1,1 @@
-# Rax-Outdoor-Company
+# RaxOutdoorCompany
